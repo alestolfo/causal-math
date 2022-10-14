@@ -1,6 +1,9 @@
 # Causal Analysis of Mathematical Reasoning in Neural Language Models
 
-This folder contains the code and the instructions to reproduce the results presented in the paper "Causal CheckList: A Causal Framework to Check Robustness and Sensitivity of NLP Models on Math Questions".
+This repository contains the code for the paper "A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models".
+
+_Alessandro Stolfo*, Zhijing Jin*, Kumar Shridhar, Bernhard Schölkopf, Mrinmaya Sachan_
+
 
 ## Requirements
 - `python==3.9`
